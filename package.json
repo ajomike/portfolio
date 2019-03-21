@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Michael Escoto",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajomike/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajomike/portfolio/issues"
+  },
+  "homepage": "https://github.com/ajomike/portfolio#readme",
+  "devDependencies": {
+    "clean-css": "^4.2.1"
+  }
+}
